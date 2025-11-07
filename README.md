@@ -10,7 +10,9 @@ The goal is to identify inefficiencies, reduce costs, and improve quality throug
 
 ## Tools Used
   SQL Server: For data extraction, transformation, and KPI calculations
+  
   Power BI  : For interactive dashboards and trend analysis
+  
   Canva     : For visual storytelling and summary infographics
 
 
