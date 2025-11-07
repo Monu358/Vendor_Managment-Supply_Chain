@@ -16,5 +16,5 @@ The goal is to identify inefficiencies, reduce costs, and improve quality throug
   Canva     : For visual storytelling and summary infographics
 
 ## Sql Server
-- <a href= "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/Sqlcode.sql">SqlCode<\a>
+- <a href= "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/Sqlcode.sql">SqlCode
 
