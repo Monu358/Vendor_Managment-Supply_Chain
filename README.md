@@ -19,3 +19,10 @@ The goal is to identify inefficiencies, reduce costs, and improve quality throug
 - <a href= "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/Sqlcode.sql">SqlCode
 ## Power BI Dashboard
 - <a href=  "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/PowerBI%20DAshboard.png">Dashboard
+
+   ## Solution Overview
+-  Calculated vendor-level KPIs: on-time delivery rates, average freight cost, and rejection percentages
+-  Built Power BI dashboards to visualize trends and compare vendor performance
+-  Identified underperforming vendors and cost inefficiencies
+-  Recommended focusing procurement on high-performing vendors and negotiating improvements with lower-tier ones
+
