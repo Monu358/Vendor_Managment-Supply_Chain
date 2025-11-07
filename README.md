@@ -25,4 +25,6 @@ The goal is to identify inefficiencies, reduce costs, and improve quality throug
 -  Built Power BI dashboards to visualize trends and compare vendor performance
 -  Identified underperforming vendors and cost inefficiencies
 -  Recommended focusing procurement on high-performing vendors and negotiating improvements with lower-tier ones
+## Conclusion
+This project demonstrates how data-driven vendor management can significantly enhance supply chain efficiency. By analyzing key performance indicators—such as on-time delivery rates, average freight costs, and product rejection percentages—we identified top-performing vendors and flagged underperformers for review.
 
