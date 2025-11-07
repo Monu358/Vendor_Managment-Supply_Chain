@@ -18,4 +18,4 @@ The goal is to identify inefficiencies, reduce costs, and improve quality throug
 ## Sql Server
 - <a href= "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/Sqlcode.sql">SqlCode
 ## Power BI Dashboard
-   <a href=  "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/PowerBI%20DAshboard.png">Dashboard
+- <a href=  "https://github.com/Monu358/Vendor_Managment-Supply_Chain/blob/main/PowerBI%20DAshboard.png">Dashboard
